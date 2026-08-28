@@ -1,2 +1,2 @@
 # log-analyser
-This project analyses logs through file handling. This program returns the statistics of the log and prints them coherently.
+This project analyses logs through file handling. It returns the statistics of the log file and prints them coherently.
